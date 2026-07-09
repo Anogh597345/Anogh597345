@@ -22,7 +22,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/arunoday-banerjee/">
 
