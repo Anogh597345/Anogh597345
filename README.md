@@ -59,3 +59,81 @@ AI-powered emotional wellness platform combining **LLMs, Memory, Personalization
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6E57FF&height=80&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+## Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="52"/>
+<img src="https://skillicons.dev/icons?i=java" height="52"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="52"/>
+<img src="https://skillicons.dev/icons?i=js" height="52"/>
+<img src="https://skillicons.dev/icons?i=html" height="52"/>
+<img src="https://skillicons.dev/icons?i=css" height="52"/>
+</p>
+
+<br>
+
+### Artificial Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="52"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="52"/>
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="52"/>
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="52"/>
+</p>
+
+<br>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" height="52"/>
+<img src="https://skillicons.dev/icons?i=flask" height="52"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="52"/>
+</p>
+
+<br>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" height="52"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="52"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="52"/>
+</p>
+
+<br>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" height="52"/>
+<img src="https://skillicons.dev/icons?i=azure" height="52"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="52"/>
+<img src="https://skillicons.dev/icons?i=docker" height="52"/>
+<img src="https://skillicons.dev/icons?i=git" height="52"/>
+<img src="https://skillicons.dev/icons?i=github" height="52"/>
+</p>
+
+<br>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode" height="52"/>
+<img src="https://skillicons.dev/icons?i=linux" height="52"/>
+<img src="https://skillicons.dev/icons?i=postman" height="52"/>
+<img src="https://skillicons.dev/icons?i=figma" height="52"/>
+</p>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E57FF,100:00C2FF&height=80&section=footer"/>
