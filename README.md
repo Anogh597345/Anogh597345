@@ -700,3 +700,94 @@ Generative AI • NLP • Mental Wellness
 </div>
 
 ---
+# Achievements
+
+<div align="center">
+
+| Achievement | Description |
+|-------------|-------------|
+| 🏆 Smart India Hackathon | Finalist |
+| 🏆 Flipkart GRID | Participant |
+| 🏆 Best Innovative Project | Hackathon Recognition |
+| 🏆 Google Cloud | AI Skill Badge |
+| 🏆 Deloitte | Data Analytics Job Simulation |
+
+</div>
+
+---
+
+# Certifications
+
+<div align="center">
+
+Google Cloud • Artificial Intelligence
+
+Deloitte • Data Analytics
+
+AWS (Learning)
+
+Microsoft Azure (Learning)
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arunoday-banerjee/">
+
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:arunodaybanerjee66@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/bMpZRWgFPU/">
+
+<img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="55"/>
+
+</a>
+
+</div>
+
+---
+
+# Let's Build Something Amazing
+
+<div align="center">
+
+I'm always interested in collaborating on
+
+Artificial Intelligence
+
+Computer Vision
+
+AI Agents
+
+Open Source
+
+Backend Engineering
+
+IoT
+
+If you're building something exciting, feel free to connect.
+
+</div>
+
+---
+
+<div align="center">
+
+### Engineering intelligence—not just software.
+
+</div>
