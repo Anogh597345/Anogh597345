@@ -139,3 +139,210 @@ AI Assisted Mental Wellness Platform designed for personalized emotional support
 </table>
 
 ---
+
+# Technology Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+
+</p>
+
+---
+
+### AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="55"/>
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="55"/>
+
+</p>
+
+---
+
+### Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
+<img src="https://skillicons.dev/icons?i=flask" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+
+</p>
+
+---
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+
+</p>
+
+---
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
+<img src="https://skillicons.dev/icons?i=azure" height="55"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="55"/>
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+</p>
+
+---
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+<img src="https://skillicons.dev/icons?i=postman" height="55"/>
+
+</p>
+
+</div>
+
+---
+
+# Engineering Interests
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+## Artificial Intelligence
+
+LLMs
+
+AI Agents
+
+Reasoning Systems
+
+Prompt Engineering
+
+Autonomous Systems
+
+</td>
+
+<td width="33%" align="center">
+
+## Software Engineering
+
+Backend Development
+
+API Design
+
+Scalable Systems
+
+Cloud Infrastructure
+
+Automation
+
+</td>
+
+<td width="33%" align="center">
+
+## Research
+
+Computer Vision
+
+Space Technology
+
+IoT
+
+Smart Agriculture
+
+Future AI
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Currently Exploring
+
+<table>
+
+<tr>
+
+<td>
+
+### AI Agents
+
+Designing autonomous AI systems capable of planning, reasoning and executing complex workflows.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Large Language Models
+
+Building applications powered by modern LLM architectures and retrieval-based systems.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Computer Vision
+
+Developing intelligent visual systems for detection, monitoring and analysis.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Cloud Native AI
+
+Deploying scalable AI applications using modern cloud infrastructure.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Development Philosophy
+
+> *"I believe great software isn't defined by the amount of code written, but by the real-world problems it solves. My focus is on building intelligent, scalable, and practical AI systems that create meaningful impact."*
+
+---
