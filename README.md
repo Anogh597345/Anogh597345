@@ -66,74 +66,72 @@ AI-powered emotional wellness platform combining **LLMs, Memory, Personalization
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="16%">
+
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="52"/>
-<img src="https://skillicons.dev/icons?i=java" height="52"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="52"/>
-<img src="https://skillicons.dev/icons?i=js" height="52"/>
-<img src="https://skillicons.dev/icons?i=html" height="52"/>
-<img src="https://skillicons.dev/icons?i=css" height="52"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+
+</td>
+
+<td align="center" width="16%">
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
 <br>
 
-### Artificial Intelligence
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="48"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="52"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="52"/>
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="52"/>
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="52"/>
-</p>
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="48"/>
 
-<br>
+</td>
+
+<td align="center" width="16%">
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi" height="52"/>
-<img src="https://skillicons.dev/icons?i=flask" height="52"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="52"/>
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 
-<br>
+</td>
+
+<td align="center" width="16%">
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" height="52"/>
-<img src="https://skillicons.dev/icons?i=sqlite" height="52"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="52"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 
-<br>
+</td>
 
-### Cloud & DevOps
+<td align="center" width="16%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" height="52"/>
-<img src="https://skillicons.dev/icons?i=azure" height="52"/>
-<img src="https://skillicons.dev/icons?i=gcp" height="52"/>
-<img src="https://skillicons.dev/icons?i=docker" height="52"/>
-<img src="https://skillicons.dev/icons?i=git" height="52"/>
-<img src="https://skillicons.dev/icons?i=github" height="52"/>
-</p>
+### Cloud
 
-<br>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" />
 
-### Development Tools
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode" height="52"/>
-<img src="https://skillicons.dev/icons?i=linux" height="52"/>
-<img src="https://skillicons.dev/icons?i=postman" height="52"/>
-<img src="https://skillicons.dev/icons?i=figma" height="52"/>
-</p>
+<td align="center" width="16%">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E57FF,100:00C2FF&height=80&section=footer"/>
+<div align="center">
+
+> *"Technology is only powerful when it solves real-world problems."*
+
+</div>
