@@ -1,149 +1,141 @@
-# Hi 👋, I'm Arunoday Banerjee
+<div align="center">
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Building+AI+Agents;Computer+Vision+Enthusiast;LLMs+%7C+Automation+%7C+IoT;Always+Learning."/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-Building intelligent systems that solve real-world problems through AI.
-```{=html}
-</p>
-```
+# ARUNODAY BANERJEE
 
-------------------------------------------------------------------------
+### Artificial Intelligence Engineer
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;AI+Agents+%7C+LLMs+%7C+Computer+Vision;Automation+Engineer;Always+Learning+Something+New."/>
 
-I am a Computer Science Engineering student passionate about Artificial
-Intelligence, AI Agents, Large Language Models, Computer Vision, IoT and
-Intelligent Automation.
+<br>
 
-### Current Focus
+Building intelligent software that solves real-world problems through Artificial Intelligence, Autonomous Systems and Intelligent Automation.
 
--   DiabloGPT
--   Debris-X
--   BlueRive
--   CALM-R
--   AI Automation Projects
+<br>
 
-------------------------------------------------------------------------
+<a href="https://www.linkedin.com/in/arunoday-banerjee/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
 
-## Tech Stack
+&nbsp;&nbsp;&nbsp;
 
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,flask,tensorflow,pytorch,opencv,docker,git,github,linux,mysql,sqlite,mongodb,aws,azure,gcp,html,css,js,react,nodejs,vscode"/>`{=html}
+<a href="mailto:arunodaybanerjee66@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
 
-```{=html}
-</p>
-```
+&nbsp;&nbsp;&nbsp;
 
-------------------------------------------------------------------------
+<a href="https://leetcode.com/u/bMpZRWgFPU/">
+<img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="48"/>
+</a>
 
-## Featured Projects
+</div>
+
+---
+
+# About Me
+
+I am a Computer Science Engineering student passionate about building intelligent software powered by Artificial Intelligence.
+
+Rather than simply developing applications, I enjoy designing systems capable of reasoning, learning and automating real-world tasks.
+
+My interests span across **AI Agents, Large Language Models, Computer Vision, Backend Engineering, Intelligent Automation and IoT**, where I aim to build products that are practical, scalable and impactful.
+
+Currently, I am focused on developing AI-first applications that combine software engineering with modern machine intelligence.
+
+---
+
+## Areas of Interest
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+• Artificial Intelligence
+
+• AI Agents
+
+• Large Language Models
+
+• Computer Vision
+
+• Deep Learning
+
+</td>
+
+<td width="50%">
+
+• Intelligent Automation
+
+• Backend Development
+
+• Cloud Computing
+
+• IoT Systems
+
+• Scalable Software Architecture
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Current Focus
+
+<table>
+
+<tr>
+
+<td>
 
 ### DiabloGPT
 
-AI-powered autonomous desktop assistant featuring AI agents, workflow
-automation, contextual memory and natural language task execution.
+Autonomous Desktop Intelligence System powered by AI Agents, Memory, Automation and Natural Language Interaction.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 
 ### Debris-X
 
-AI-powered orbital intelligence platform for satellite collision
-prediction and orbital sustainability.
+Orbital Intelligence Platform focused on Space Debris Analysis and Collision Prediction.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 
 ### BlueRive
 
-Smart irrigation and crop monitoring platform using ESP32, IoT sensors
-and AI.
+AI Powered Smart Irrigation Platform using IoT, ESP32 and Predictive Intelligence.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 
 ### CALM-R
 
-AI-assisted mental wellness platform.
+AI Assisted Mental Wellness Platform designed for personalized emotional support.
 
-### Carbon Footprint Tracker
+</td>
 
-Interactive sustainability dashboard.
+</tr>
 
-------------------------------------------------------------------------
+</table>
 
-## Achievements
-
--   Smart India Hackathon Finalist
--   Best Innovative Project Award
--   Flipkart GRID Participant
--   Google Cloud AI Badge
--   Deloitte Data Analytics Job Simulation
-
-------------------------------------------------------------------------
-
-## GitHub Statistics
-
-> Replace **Anogh597345** below if you change your GitHub username.
-
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anogh597345&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anogh597345&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=Anogh597345&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## Activity Graph
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anogh597345&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## Connect
-
-```{=html}
-<p align="center">
-```
-`<a href="https://www.linkedin.com/in/arunoday-banerjee/">`{=html}
-`<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>`{=html}
-`</a>`{=html}
-
-   
-
-`<a href="mailto:arunodaybanerjee66@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
-`</a>`{=html}
-
-   
-
-`<a href="https://leetcode.com/u/bMpZRWgFPU/">`{=html}
-`<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>`{=html}
-`</a>`{=html}
-
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## Quote
-
-> Engineering intelligence---not just software.
+---
