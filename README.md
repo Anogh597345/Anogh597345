@@ -1,157 +1,149 @@
-<h1 align="center">Hi 👋, I'm Arunoday Banerjee</h1>
+# Hi 👋, I'm Arunoday Banerjee
 
-<h3 align="center">🚀 AI Engineer | AI Agents | LLMs | Computer Vision | Automation</h3>
-
+```{=html}
 <p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Building+AI+Agents;Computer+Vision+Enthusiast;LLMs+%7C+Automation+%7C+IoT;Always+Learning."/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
 Building intelligent systems that solve real-world problems through AI.
+```{=html}
 </p>
+```
 
+------------------------------------------------------------------------
+
+## About Me
+
+I am a Computer Science Engineering student passionate about Artificial
+Intelligence, AI Agents, Large Language Models, Computer Vision, IoT and
+Intelligent Automation.
+
+### Current Focus
+
+-   DiabloGPT
+-   Debris-X
+-   BlueRive
+-   CALM-R
+-   AI Automation Projects
+
+------------------------------------------------------------------------
+
+## Tech Stack
+
+```{=html}
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=900&lines=AI+Engineer;Building+AI+Agents;Python+Developer;Computer+Vision+Enthusiast;FastAPI+%7C+LangChain+%7C+LLMs;Hackathon+Builder;Always+Learning+New+Things" />
+```
+`<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,flask,tensorflow,pytorch,opencv,docker,git,github,linux,mysql,sqlite,mongodb,aws,azure,gcp,html,css,js,react,nodejs,vscode"/>`{=html}
+
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🚀 About Me
+## Featured Projects
 
-🎓 Computer Science Engineering Student passionate about building intelligent AI systems.
+### DiabloGPT
 
-🤖 Interested in AI Agents, LLMs, Automation and Computer Vision.
+AI-powered autonomous desktop assistant featuring AI agents, workflow
+automation, contextual memory and natural language task execution.
 
-💻 I enjoy solving real-world problems through technology.
+### Debris-X
 
-🌱 Currently exploring advanced AI architectures, autonomous systems and intelligent automation.
+AI-powered orbital intelligence platform for satellite collision
+prediction and orbital sustainability.
 
-⚡ Goal: Build products that impact millions of people.
+### BlueRive
 
----
+Smart irrigation and crop monitoring platform using ESP32, IoT sensors
+and AI.
 
-## 🔥 Currently Working On
+### CALM-R
 
-- 🤖 DiabloGPT
-- 🛰 Debris-X
-- 🌱 BlueRive
-- 🧠 CALM-R
-- 🚀 AI Automation Projects
+AI-assisted mental wellness platform.
 
----
+### Carbon Footprint Tracker
 
-## 💻 Tech Stack
+Interactive sustainability dashboard.
 
+------------------------------------------------------------------------
+
+## Achievements
+
+-   Smart India Hackathon Finalist
+-   Best Innovative Project Award
+-   Flipkart GRID Participant
+-   Google Cloud AI Badge
+-   Deloitte Data Analytics Job Simulation
+
+------------------------------------------------------------------------
+
+## GitHub Statistics
+
+> Replace **Anogh597345** below if you change your GitHub username.
+
+```{=html}
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,flask,tensorflow,pytorch,opencv,docker,git,github,linux,mysql,sqlite,mongodb,aws,azure,gcp,html,css,js,react,nodejs,vscode"/>
-
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anogh597345&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anogh597345&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
----
-
-## 🏆 Featured Projects
-
-### 🤖 DiabloGPT
-
-AI-powered autonomous desktop assistant capable of intelligent task execution, contextual memory, workflow automation and multi-agent reasoning.
-
----
-
-### 🛰 Debris-X
-
-AI-powered orbital intelligence platform for satellite collision prediction, NEO monitoring and long-term orbital sustainability.
-
----
-
-### 🌱 BlueRive
-
-AI-driven smart irrigation and crop monitoring platform using ESP32, IoT sensors, weather intelligence and automation.
-
----
-
-### 🧠 CALM-R
-
-AI-assisted mental wellness platform focused on emotional support and self-improvement.
-
----
-
-### 🌍 Carbon Footprint Tracker
-
-Interactive platform to monitor and analyze carbon emissions using intelligent dashboards.
-
----
-
-## 🏅 Achievements
-
-🏆 Smart India Hackathon Finalist
-
-🏆 Best Innovative Project Award
-
-🏆 Flipkart GRID Participant
-
-🏆 Google Cloud AI Badge
-
-🏆 Deloitte Data Analytics Job Simulation
-
----
-
-## 📊 GitHub Statistics
-
+```
+```{=html}
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+```
+`<img src="https://streak-stats.demolab.com?user=Anogh597345&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
+------------------------------------------------------------------------
+
+## Activity Graph
+
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anogh597345&theme=tokyo-night&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 📈 Contribution Graph
+## Connect
 
+```{=html}
 <p align="center">
+```
+`<a href="https://www.linkedin.com/in/arunoday-banerjee/">`{=html}
+`<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>`{=html}
+`</a>`{=html}
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+   
 
+`<a href="mailto:arunodaybanerjee66@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
+`</a>`{=html}
+
+   
+
+`<a href="https://leetcode.com/u/bMpZRWgFPU/">`{=html}
+`<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>`{=html}
+`</a>`{=html}
+
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🌐 Connect With Me
+## Quote
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/arunoday-banerjee/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:arunodaybanerjee66@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/bMpZRWgFPU/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💡 Quote
-
-> *"Building tomorrow, one intelligent system at a time."*
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+> Engineering intelligence---not just software.
