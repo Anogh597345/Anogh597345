@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="YOUR_BANNER_URL" width="100%" />
 
 <br><br>
 
