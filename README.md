@@ -578,3 +578,125 @@ Generative AI • NLP • Mental Wellness
 > **Building AI-first products that combine intelligent reasoning, automation, and practical software engineering to solve real-world challenges.**
 
 ---
+
+# Development Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anogh597345&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Anogh597345&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=7C3AED&currStreakLabel=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anogh597345&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anogh597345&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# Coding Journey
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anogh597345&theme=tokyonight"/>
+
+</div>
+
+---
+
+# GitHub Overview
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anogh597345&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anogh597345&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anogh597345&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# Development Philosophy
+
+<div align="center">
+
+> **"Great software isn't measured by the amount of code written. It's measured by the value it creates."**
+
+</div>
+
+---
+
+# What I'm Building
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Artificial Intelligence
+
+- AI Agents
+- LLM Applications
+- Computer Vision
+- Intelligent Automation
+- Multi-Agent Systems
+
+</td>
+
+<td width="50%">
+
+### Software Engineering
+
+- Backend Development
+- REST APIs
+- Cloud Infrastructure
+- Docker
+- Scalable Systems
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Current Goals
+
+✔ Build production-ready AI products
+
+✔ Contribute to Open Source
+
+✔ Learn distributed AI systems
+
+✔ Build scalable SaaS products
+
+✔ Master System Design
+
+---
+
+<div align="center">
+
+### Engineering intelligent software for tomorrow.
+
+</div>
+
+---
