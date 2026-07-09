@@ -346,3 +346,235 @@ Deploying scalable AI applications using modern cloud infrastructure.
 > *"I believe great software isn't defined by the amount of code written, but by the real-world problems it solves. My focus is on building intelligent, scalable, and practical AI systems that create meaningful impact."*
 
 ---
+
+# Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🤖 DiabloGPT</h3>
+
+<p align="center">
+
+Autonomous Desktop Intelligence System powered by AI Agents, contextual memory, workflow automation and natural language interaction.
+
+</p>
+
+<p align="center">
+
+<strong>Tech Stack</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,sqlite"/>
+
+<br><br>
+
+LLMs • LangChain • Windows Automation • Multi-Agent Systems
+
+<br><br>
+
+<a href="https://github.com/Anogh597345/DiabloGPT">
+
+<img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🛰 Debris-X</h3>
+
+<p align="center">
+
+Orbital Intelligence Platform for satellite collision prediction, NEO monitoring and long-term orbital sustainability.
+
+</p>
+
+<p align="center">
+
+<strong>Tech Stack</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,mongodb"/>
+
+<br><br>
+
+Machine Learning • Space Analytics • AI Forecasting
+
+<br><br>
+
+<a href="https://github.com/Anogh597345/Debris-X">
+
+<img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🌱 BlueRive</h3>
+
+<p align="center">
+
+AI-powered Smart Irrigation Platform integrating ESP32, IoT sensors, predictive intelligence and weather-aware automation.
+
+</p>
+
+<p align="center">
+
+<strong>Tech Stack</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,sqlite"/>
+
+<br><br>
+
+ESP32 • IoT • AI • Smart Agriculture
+
+<br><br>
+
+<a href="https://github.com/Anogh597345/BlueRive">
+
+<img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🧠 CALM-R</h3>
+
+<p align="center">
+
+AI-assisted mental wellness platform designed to provide personalized emotional support and intelligent self-improvement.
+
+</p>
+
+<p align="center">
+
+<strong>Tech Stack</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi"/>
+
+<br><br>
+
+Generative AI • NLP • Mental Wellness
+
+<br><br>
+
+<a href="https://github.com/Anogh597345/CALM-R">
+
+<img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# Engineering Highlights
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+## AI Systems
+
+✔ AI Agents
+
+✔ Multi-Agent Workflows
+
+✔ LLM Applications
+
+✔ Prompt Engineering
+
+✔ Intelligent Automation
+
+</td>
+
+<td width="33%" align="center">
+
+## Software
+
+✔ REST APIs
+
+✔ Backend Systems
+
+✔ Cloud Deployment
+
+✔ Database Design
+
+✔ Docker
+
+</td>
+
+<td width="33%" align="center">
+
+## Innovation
+
+✔ Computer Vision
+
+✔ Space Technology
+
+✔ IoT
+
+✔ Smart Agriculture
+
+✔ AI Research
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Open Source Goals
+
+- Build production-ready AI systems.
+- Contribute to meaningful open-source AI projects.
+- Continuously improve engineering practices.
+- Design scalable software architectures.
+- Explore the future of autonomous AI.
+
+---
+
+# Current Mission
+
+> **Building AI-first products that combine intelligent reasoning, automation, and practical software engineering to solve real-world challenges.**
+
+---
