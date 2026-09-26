@@ -1,12 +1,4 @@
-<div align="center">
 
-<img src="./arun_exe_story_mode_pacman_CONTINUOUS_FINAL_POLISHED.gif" width="900" alt="ARUN.EXE — Developer System">
-
-</div>
-
-![ARUN.EXE — Developer System](./arun_exe_story_mode_pacman_CONTINUOUS_FINAL_POLISHED.gif)
-
-<div align="center">
 
 ### `> NEW PLAYER DETECTED`
 
@@ -17,6 +9,11 @@
 `MODE` → BUILD / BREAK / REBUILD
 
 ---
+
+![ARUN.EXE — Developer System](./arun_exe_story_mode_pacman_CONTINUOUS_FINAL_POLISHED.gif)
+
+<div align="center">
+
 
 `> QUEST OBJECTIVE`
 
