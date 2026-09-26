@@ -1,6 +1,6 @@
 <div align="center">
 
-### `> NEW PLAYER DETECTED`
+### `NEW PLAYER DETECTED`
 
 **PLAYER 001 // ARUNODAY**
 
@@ -22,6 +22,7 @@
 `> SKILL TREE`
 
 `AI` • `AGENTS` • `LLMs` • `VISION` • `AUTOMATION`
+---
 
 `> CURRENT STATUS`
 
